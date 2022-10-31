@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Erica González
+                    Erica González - 1055273079
                 </a>
             </div>
 
